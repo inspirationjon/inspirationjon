@@ -25,10 +25,7 @@
         </td>
         <td>
           <a href="https://github.com/inspirationjon">
-              <img
-              alt="Learn React from Start to Finish"
-              src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=inspirationjon&show_icons=true&theme=react)"
-            />
+           ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=inspirationjon&show_icons=true&theme=react)
           </a>
         </td>
       </tr>
