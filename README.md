@@ -1,5 +1,2 @@
-#### Ilhom Shamidinov 
-5+ years of industrial experience. Built scalable and maintainable web applications for millions of users worldwide in healthcare, education, etc.
-
-- Engineering @ [iTransition](https://www.itransition.com/)
-- Currently focused on (React, Suspense, Remix)
+#### Ilkhomjon Shamidinov 
+5+ years of professional software development experience. Built web applications for millions worldwide in industries like healthcare, education and transportation.
